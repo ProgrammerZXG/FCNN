@@ -1,10 +1,10 @@
 # FCNN
-##A simple FCNN demo,which applys to one dimensional non-linear regression problem,is aimed at helping beginner to learn deep-learning easily.
+## A simple FCNN demo,which applys to one dimensional non-linear regression problem,is aimed at helping beginner to learn deep-learning easily.
 
-#Run a demo
+# Run a demo
 download the jupyter notebook
 
-#Results:
+# Results:
 We choose some training points(red points) from sin(x)
 ![训练集](https://user-images.githubusercontent.com/89449763/195748509-c38ac681-155f-4535-ab52-2fb57cceea46.png)
 
