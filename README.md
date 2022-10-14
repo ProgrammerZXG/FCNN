@@ -6,6 +6,7 @@ download the jupyter notebook
 
 # Results:
 We choose some training points(red points) from sin(x)
+
 ![训练集](https://user-images.githubusercontent.com/89449763/195748509-c38ac681-155f-4535-ab52-2fb57cceea46.png)
 
 Use the trained model to predict all the points to restruct the sin(x),blue curve is the prediction.
