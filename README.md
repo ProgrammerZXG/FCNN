@@ -2,7 +2,8 @@
 ## A simple FCNN demo,which applys to one dimensional non-linear regression problem,is aimed at helping beginner to learn deep-learning easily.
 
 # Run a demo
-download the jupyter notebook
+1.download the jupyter notebook
+2.run the "FCNN.ipynb" with jupyter notebook
 
 # Results:
 We choose some training points(red points) from sin(x)
